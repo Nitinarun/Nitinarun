@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nitinarun
 - 👀 I’m interested in Web development and Software Engineering for the Web coding in lanugages such as HTML, CSS, PHP, and JavaScript
 - 🌱 I’m currently learning Business & IT at Aberystwyth University
-- 💞️ Working as a Front-end Developer Intern @ Ingram Micro Malaysia
+- 💞️ Currently in my final year of University working on a Web-Based Project & Dissertation
 - 📫 How to reach me : Email @ nitinarun29@gmail.com
 
 <!---
