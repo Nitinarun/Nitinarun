@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nitinarun
-- 👀 I’m interested in Web development and Software Engineering for the Web coding in lanugages such as HTML, CSS, PHP, and JavaScript
-- 🌱 I’m currently learning Business & IT at Aberystwyth University
-- 💞️ Currently in my final year of University working on a Web-Based Project & Dissertation
+- 👀 I’m interested in Web development and Software Engineering for the Web coding in lanugages such as React Js, HTML, CSS & PHP
+- 🌱 Recent Second Upper Graduate of Bsc Business & IT at Aberystwyth University
+- 💞️ Currently employed at Hitachi Ebworx learning about React.js & Tailwind CSS as an Intern Application Engineer
 - 📫 How to reach me : Email @ nitinarun29@gmail.com
 
 <!---
